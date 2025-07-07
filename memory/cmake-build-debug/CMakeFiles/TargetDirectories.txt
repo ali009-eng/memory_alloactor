@@ -1,0 +1,3 @@
+C:/Users/alite/CLionProjects/memory/cmake-build-debug/CMakeFiles/memory.dir
+C:/Users/alite/CLionProjects/memory/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alite/CLionProjects/memory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
